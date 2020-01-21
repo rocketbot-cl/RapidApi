@@ -3,17 +3,22 @@
  
  **You must create an account in RapidApi's page and get a key.
 
-For more information go to: <a href="https://rapidapi.com/">RapidAPI</a>
+For more information go to: <strong><a href="https://rapidapi.com/">RapidAPI</a></strong>
 
 ![alt text](https://raw.githubusercontent.com/rocketbot-cl/RapidApi/master/example/rapid.png)
+
+<strong>Video Example:</strong>
+
+[![Validate_Email](https://img.youtube.com/vi/B1COGGpZ2-w/0.jpg)](https://www.youtube.com/watch?v=B1COGGpZ2-w "Validate_Email")
+
 
 <h2>Link to API documentation</h2>
 <p>
   <ul>
     <li>
-      <a href="https://docs.rapidapi.com/docs/basics-creating-a-project">
+     <strong><a href="https://docs.rapidapi.com/docs/basics-creating-a-project">
         Docs API
-      </a>
+      </a></strong>
     </li>
   </ul> 
 </p>
